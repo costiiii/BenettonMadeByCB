@@ -6,3 +6,22 @@
     background-image: url('photo benetton.jpg');
     background-size:cover;
 }
+.py-10{
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+.main-title{
+    color: white;
+    font-size: 75px;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+.second-title{
+
+    color: white;
+    font-size: 60px;
+    font-family: 'Libre Baskerville', serif;
+
+}
